@@ -1,0 +1,38 @@
+.parent1{
+    display: grid;
+    margin:15px 0px 0px 250px;
+    grid-template-columns: 25% 25% 25% 25%;
+    height: 70px;
+    width: 35%;
+  
+  }
+
+  .childA{
+    background-color: rgb(185, 185, 54);
+    margin-left: 3px;
+  }
+  .childB{
+    background-color:green;
+    margin-left: 3px;
+  }
+  .childC{
+    background-color: rgb(185, 113, 54);
+    margin-left: 3px;
+  }
+  .childD{
+    background-color: rgb(211, 32, 32);
+    margin-left: 3px;
+  }
+
+#pa1{
+    color: white;
+    font-size:small;
+    margin: 20px 0px 0px 12px;
+    text-align: center;
+}
+#pa2{
+    color: white;
+    font-size:small;
+    margin: 20px 0px 0px 40px;
+    text-align: center;  
+}

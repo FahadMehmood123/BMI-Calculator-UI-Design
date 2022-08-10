@@ -1,0 +1,28 @@
+.parent{
+    display: grid;
+    margin:15px 0px 0px 250px;
+    grid-template-columns: 25% 75%;
+    height: 70px;
+      width: 35%;
+  
+  }
+  
+  .child1{
+    background-color: rgb(166, 174, 180);
+    
+  }
+  #p1{
+    margin-top: 20px;
+  }
+  
+  #p2{
+    color: white;
+    font-size: x-large;
+    margin: 20px 0px 0px 150px;
+  
+  }
+  .child2{
+    background-color: green;
+    margin-left: 3px;
+  }
+  

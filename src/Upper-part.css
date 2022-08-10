@@ -1,0 +1,54 @@
+*{
+
+    box-sizing: border-box;
+  }
+  h1{
+    color: rgb(61, 74, 85);
+    margin:100px 0px 0px 250px;
+  }
+  
+  .head{
+    margin:20px 0px 0px 250px;
+    background-color: rgb(172, 199, 223);
+    height: 200px;
+    width: 35%;
+  }
+  
+  .head>input[type="text"]{
+  
+   margin: 20px 0px 0px 103px;
+   background-color: white;
+   border: 0ch;
+   height: 25px;
+  
+  }
+  p{
+    display: inline-block;
+    margin-top: -20px;
+    margin-left: 25px;
+    color: rgb(100, 89, 89);
+    font-weight: 1000;
+  }
+  ::placeholder{
+    text-align: center;
+    font-weight: 1000;
+  }
+  
+  label{
+    margin-left: 15px;
+    color: rgb(100, 89, 89);
+    font-weight: 1000;
+  }
+  #pract1{
+    margin-left: 87px;
+  }
+  #pract2{
+    margin-left: 90px;
+  }
+  
+  #pract3{
+    margin-left:159px;
+    margin-top: 0px;
+  
+  }
+  
